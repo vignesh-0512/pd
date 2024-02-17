@@ -10,9 +10,5 @@ Pillow
 python-dateutil
 pytz
 six
-https://download.pytorch.org/whl/torch_stable.html
 torch
-https://download.pytorch.org/whl/torch_stable.html
 torchvision
-typing-extensions
-Werkzeug
