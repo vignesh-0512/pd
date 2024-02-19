@@ -1,18 +1,6 @@
-﻿﻿click
-Flask
-gunicorn
-itsdangerous
-Jinja2
-MarkupSafe
 numpy
 pandas
-Pillow
-python-dateutil
-pytz
-six
--f https://download.pytorch.org/whl/torch_stable.html
 torch
--f https://download.pytorch.org/whl/torch_stable.html
 torchvision
-typing-extensions
-Werkzeug
+wheel
+flask
